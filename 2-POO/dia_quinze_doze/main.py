@@ -1,0 +1,3 @@
+import second
+
+help(second)

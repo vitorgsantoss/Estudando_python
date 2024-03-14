@@ -1,0 +1,5 @@
+Mouse;R$ 50.00
+Notebook;R$ 2500.00
+Placa de Vídeo;R$ 1500.00
+teclado;R$ 100.00
+placa de rede;R$ 500.00

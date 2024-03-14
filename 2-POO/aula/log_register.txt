@@ -1,0 +1,8 @@
+Sucesso: POCO X4 está ligado  (LogFileMixin)
+Erro: POCO X4 está desligado  (LogFileMixin)
+Erro: iPhone está desligado  (LogFileMixin)
+Sucesso: iPhone está ligado  (LogFileMixin)
+Sucesso: POCO X4 está ligado  (LogFileMixin)
+Erro: POCO X4 está desligado  (LogFileMixin)
+Erro: iPhone está desligado  (LogFileMixin)
+Sucesso: iPhone está ligado  (LogFileMixin)
